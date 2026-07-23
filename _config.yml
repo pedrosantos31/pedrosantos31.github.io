@@ -23,7 +23,7 @@ repository               : "pedrosantos31/pedrosantos31.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic_isr2.png"
+  avatar           : "profile_adraga.jpg"
   name             : "Pedro Santos"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Aerospace Engineering"
@@ -138,7 +138,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
